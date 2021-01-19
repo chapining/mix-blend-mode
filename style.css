@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+}
+
+
+.foto {
+	background: url("sajad-nori-bHTnosc3O2w-unsplash(1).jpg");
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.text {
+	position: absolute;
+	background-color: blue;
+	color: red;
+	text-transform: uppercase;
+	font-family: 'Seymour One', sans-serif;
+	font-size: 5vw;
+	padding: 0.5vw 2vw;
+	mix-blend-mode: lighten;
+}
